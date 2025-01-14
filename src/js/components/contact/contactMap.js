@@ -1,1 +1,1 @@
-export const useMap = () => {}
+export const useMap = () => {};
